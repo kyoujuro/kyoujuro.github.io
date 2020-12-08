@@ -8,8 +8,13 @@
 # Skills
 - GitHub Pages
 - R
-- Scala
-- RapidMiner
-
+- Go
+- Python
+- C#
+- Dart
 
 # Works
+System Engineer
+
+# Current Efforts
+Vitess Practice
